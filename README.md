@@ -8,3 +8,11 @@ La réponse ici avec ce générateur de significations d'acronymes beaufs :
 HTTP -> Haricots Truffes Tartiflette Potage
 CSS -> Choucroute Sauciflard Sauvignon
 ```
+
+WIP
+
+Utilisations :
+
+* HTML : `<script src="beauf.js"></script>`
+* Commande Line : `node beauf.js HTTP`
+* NodeJS : `require('./beauf');`
