@@ -1,0 +1,24 @@
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+</head>
+<body>
+    <script src="beauf.js"></script>
+    <form id="form">
+        <input type="text"  id="input"/>
+        <input type="submit">
+    </form>
+    <h3 id="output"></h3>
+    <script>
+        document.getElementById('form').onsubmit = function(e){
+          e.preventDefault();
+          const input = document.getElementById('input');
+          const output = document.getElementById('output');
+          input.value = input.value.toUpperCase();
+          output.textContent = beauf.process(input.value);
+          return false;
+        }
+    </script>
+</body>
+</html>
