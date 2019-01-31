@@ -9,6 +9,8 @@ HTTP -> Haricots Truffes Tartiflette Potage
 CSS -> Choucroute Sauciflard Sauvignon
 ```
 
+[Version live](https://klemek.github.io/Beauf/)
+
 WIP
 
 Utilisations :
