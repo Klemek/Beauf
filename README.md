@@ -1,3 +1,6 @@
+[![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Klemek/Beauf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Klemek/Beauf/context:javascript)
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/Klemek/Beauf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Klemek/Beauf/alerts/)
+
 # Beauf
 Le repo en claquettes-chaussettes
 
