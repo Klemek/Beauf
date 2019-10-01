@@ -1,3 +1,4 @@
+[![Scc Count Badge](https://sloc.xyz/github/klemek/beauf/?category=code)](https://github.com/boyter/scc/#badges-beta)
 [![Language grade: JavaScript](https://img.shields.io/lgtm/grade/javascript/g/Klemek/Beauf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Klemek/Beauf/context:javascript)
 [![Total alerts](https://img.shields.io/lgtm/alerts/g/Klemek/Beauf.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/Klemek/Beauf/alerts/)
 
